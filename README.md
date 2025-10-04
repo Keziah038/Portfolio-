@@ -2,8 +2,6 @@
 
 A modern, responsive personal portfolio website built with HTML, CSS, and JavaScript to showcase my projects, skills, and contact information.
 
-![Portfolio Preview](images/portfolio-preview.png)
-
 ## 🚀 Features
 
 - **Responsive Design**: Optimized for desktop, tablet, and mobile screens
@@ -51,5 +49,5 @@ cd portfolio
 code .  # or use any other editor
 # Open index.html in your browser or use a local server
 ```
-🌐 Live Demo: 
-Developed with ❤️ by Keziah Mariam Raison
+🌐 Live Demo: https://keziah038.github.io/Portfolio-/
+### Developed with ❤️ by Keziah Mariam Raison
